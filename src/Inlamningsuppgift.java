@@ -1,3 +1,5 @@
+/* Detta är min första lösning på del som jag spara för att det är kul endast
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
@@ -6,8 +8,9 @@ public class Inlamningsuppgift {
     public static void main(String[] args){
         ArrayList<String> wordList = new ArrayList<>();
         ArrayList<Integer> wordLengthList = new ArrayList<>();
-        int summa = 0
+        int summa = 0;
         int lineCounter = 0;
+        int word_sum = 0;
         String longestWord = null ;
         Scanner input = new Scanner(System.in);
 
@@ -33,5 +36,5 @@ public class Inlamningsuppgift {
         input.close();
     }
 }
-
+*/
 
